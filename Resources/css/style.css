@@ -2,8 +2,18 @@ html {
   font-style: Helvetica;
 }
 
+.menu {
+  background-image: url("../images/the-flatiron-building.png") ;
+}
+
 h1 {
   font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.menu h2 {
+  font-size: 18px;
   font-weight: bold;
   color: white;
 }
