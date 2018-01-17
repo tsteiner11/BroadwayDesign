@@ -24,3 +24,14 @@ h1 {
 .Designed {
   background-image: url("../images/the-flatiron-building.png");
 }
+
+footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+}
+
+a {
+  color: white;
+}
