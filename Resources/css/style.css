@@ -1,3 +1,9 @@
 html {
   font-style: Helvetica;
 }
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
