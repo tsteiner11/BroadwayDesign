@@ -1,5 +1,6 @@
 html {
   font-style: Helvetica;
+  text-align: center;
 }
 
 .menu {
@@ -10,10 +11,16 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+  text-align: center;
 }
 
 .menu h2 {
   font-size: 18px;
   font-weight: bold;
   color: white;
+  text-align: center;
+}
+
+.Designed {
+  background-image: url("../images/the-flatiron-building.png");
 }
